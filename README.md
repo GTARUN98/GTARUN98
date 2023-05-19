@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gtarun98&label=Profile%20views&color=0e75b6&style=flat" alt="gtarun98" /> </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18UzsdJ394xHHkAHYGz5lIZWY0iFxEaB9/view?usp=share_link](https://drive.google.com/file/d/18UzsdJ394xHHkAHYGz5lIZWY0iFxEaB9/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
